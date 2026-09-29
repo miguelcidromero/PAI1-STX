@@ -1,0 +1,1 @@
+# RS1: Bloqueo de cuenta tras N fallos consecutivos

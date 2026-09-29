@@ -1,0 +1,1 @@
+#RS1: Password hashing (PBKDF2) y Salt único

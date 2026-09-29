@@ -1,0 +1,1 @@
+# CRUD puro: crear sesión, verificar validez, invalidar

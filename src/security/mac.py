@@ -1,0 +1,1 @@
+# RS2: Cálculo de HMAC-SHA256 con claves seguras

@@ -1,0 +1,1 @@
+# RS4: Comparación en tiempo constante (compare_digest)

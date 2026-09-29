@@ -1,0 +1,1 @@
+# Esquema de la transferencia bancaria (tx_id, accounts, amount)
